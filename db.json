@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "person_name": "Fulano",
+      "business_name": "Fulano",
+      "business_gst_number": 2
+    },
+    {
+      "person_name": "dsa",
+      "business_name": "ds",
+      "business_gst_number": "1",
+      "id": 2
+    }
+  ]
+}
